@@ -34,13 +34,13 @@ This project involves building an interactive dashboard for Electro Hub to analy
 
 ## Screenshots
 ### Overview
-![Overview](images/dashboard_overview.png)
+![Overview](https://github.com/Raj-UtsaV/Power-BI-Electronhub/blob/main/Overview.png)
 
 ### Product Performance
-![Top & Bottom Products](images/top_bottom_products.png)
+![Top & Bottom Products](https://github.com/Raj-UtsaV/Power-BI-Electronhub/blob/main/Top_Bottom_5.png)
 
 ### Comparisions
-![Comparisions](images/sales_trends.png)
+![Comparisions](https://github.com/Raj-UtsaV/Power-BI-Electronhub/blob/main/Comparisions.png)
 
 
 
